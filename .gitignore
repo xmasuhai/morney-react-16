@@ -22,6 +22,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /codealike.json
+
+# IDE
+/.vscode
+/.idea
 /.idea/http-test/http-test.json
 /.idea/JetClient/state.xml
 /.idea/sonarlint/issuestore/8/3/835da56f32df714aaed6285a5b7fc3a7807851e4
