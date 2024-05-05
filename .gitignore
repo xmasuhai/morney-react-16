@@ -31,3 +31,6 @@ yarn-error.log*
 /.idea/sonarlint/issuestore/8/3/835da56f32df714aaed6285a5b7fc3a7807851e4
 /.idea/sonarlint/securityhotspotstore/8/3/835da56f32df714aaed6285a5b7fc3a7807851e4
 /.idea/.name
+/.sass-cache/cf9802a264dda059dadead488f3cd6848b49be07/index.scssc
+/JSON
+/JSON.map
